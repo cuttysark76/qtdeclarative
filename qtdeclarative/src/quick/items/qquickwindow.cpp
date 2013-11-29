@@ -189,7 +189,7 @@ have a scope focused item), and the other items will have their focus cleared.
 
 // #define FOCUS_DEBUG
 // #define MOUSE_DEBUG
-// #define TOUCH_DEBUG
+#define TOUCH_DEBUG
 // #define DIRTY_DEBUG
 
 #ifdef FOCUS_DEBUG
